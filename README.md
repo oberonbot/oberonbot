@@ -1,5 +1,4 @@
 # Hongzhi (Ethan) Zhao 
-This is for displaying my profile in a awesome way.....
 
 
 **`Developer`**
