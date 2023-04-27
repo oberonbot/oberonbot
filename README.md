@@ -1,4 +1,4 @@
-# Hongzhi (Ethan) Zhao 
+# My Profile
 
 
 **`Developer`**
@@ -30,7 +30,7 @@ As a technology enthusiast with a deep appreciation for music and art, I strongl
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   Don't know what major to pursue after the college entrance examination? Computer Programming, what can go wrong?
-   Don't know what to do after graduation? Go to US to pursue Master's Degree in CS, what can go wrong?
+   <br>Don't know what major to pursue after the college entrance examination? Computer Programming, what can go wrong?</br>
+   <br>Don't know what to do after graduation? Go to US to pursue Master's Degree in CS, what can go wrong?</br>
 
 [website]: http://oberon.lol
